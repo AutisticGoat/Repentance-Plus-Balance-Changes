@@ -8,6 +8,7 @@ local includedScripts = {
     scriptsPath .. Actives .. "MegaBean",
     scriptsPath .. Actives .. "JarOfWisps",
     scriptsPath .. Actives .. "Abyss",
+    scriptsPath .. Actives .. "Dataminer",
 }
 
 for _, scripts in ipairs(includedScripts) do
