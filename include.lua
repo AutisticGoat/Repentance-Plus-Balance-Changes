@@ -12,7 +12,9 @@ local includedScripts = {
     scriptsPath .. Actives .. "ButterBean",
     scriptsPath .. Actives .. "TheBean",
     scriptsPath .. Actives .. "KidneyBean",
-
+    scriptsPath .. Actives .. "Dataminer",
+    scriptsPath .. Actives .. "Dataminer",
+  
     scriptsPath .. Passives .. "Jupiter",
 }
 
